@@ -1,0 +1,13 @@
+﻿文件: sample.txt
+词频统计 (前 10 名):
+------------------------------
+  hello               5
+  world               4
+  git                 3
+  github              2
+  is                  2
+  a                   2
+  of                  1
+  distributed         1
+  version             1
+  control             1
